@@ -1,6 +1,3 @@
-Q1: Why might we consider using Git?
+Q2: What field could data science be applied to? Give an Example.
 
-Answer: Git is helpful for keeping track of different versions and the history of a project. 
-It allows developers to recall projects to a previous version, and cleanly collaborate on the same project by allowing multiple copies of a project to be merged together.
-Developers can work on different sections of a project using the branches feature and test out new ideas without interfering with other branches. 
-Using the distributed version control system, developers can work on their own local repositories and push/pull as necessary to the main server. 
+Answer: Medicine - After researchers collect sample data about the effectiveness of new drugs, they need to use data science principles to determine whether or not the new drug will be effective for the general population.
